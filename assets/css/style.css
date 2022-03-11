@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(22, 22, 22);
+}
+.opener {
+  color: white;
+  margin-left: 4%;
+  margin-top: -3%;
+}
+.icon {
+  width: 50px;
+}
+.trailer {
+  color: white;
+}
+p {
+  text-align: right;
+  margin-top: -35%;
+  margin-left: 50%;
+  color: white;
+  font-size: larger;
+}
+.matrix.a {
+  color: white;
+}
